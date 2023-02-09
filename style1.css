@@ -1,0 +1,20 @@
+body
+{
+    background-color: aqua;
+}
+
+.row{
+    padding: 20px;
+
+   left: 40%;
+
+}
+#admin-content card{
+     width: 100rem;
+     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+ 
+} 
+
+.form{
+    padding: 20px;
+}
